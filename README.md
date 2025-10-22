@@ -1,2 +1,3 @@
 # comm4190_F25_Tutor_Task
-Tutor Task
+Testing LLMs as an Tutor on The Israel-Palestine Conflict
+This Repo is all about testing to see if Claude-3.5-sonnet can tutor me in the Israel-Palestine Conflict. Since it is a very controversial topic, I am exploring how an LLM (acting as a tutor) would approach this topic from an educational and historical perspective. I am interested in seeing if it leaves out certain historical key points or events while explaining. Overall, this was a very interesting project for me, and I left knowing more than I had before and testing my own perspectives and lens' to look at the c
